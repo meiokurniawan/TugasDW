@@ -1,0 +1,7 @@
+header {padding:30px; background-color:white;}
+nav {background-color:black; padding:10px; font-family:arial;}
+.column {background-color: #D1D7FF;float: left;height: 100%;width: 10%; text-align: center; ;}
+.extracolumn {background-color:#D1D7FF;float: left;height: 100%;width: 10%; font-family:arial;}
+.content {background-color:#eaeaea; float: left;height: 100%;width: 80%; color:black; font-size: 14px; font-family:arial;
+font-family:arial;}
+.footer {background-color:black; padding:30px; text-align:center; font-size: 14px; color:blue; font-family:arial;}
